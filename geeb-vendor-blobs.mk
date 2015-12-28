@@ -58,10 +58,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/lib/libaudcal.so:system/lib/libaudcal.so \
     $(LOCAL_PATH)/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     $(LOCAL_PATH)/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
-    $(LOCAL_PATH)/lib/libchromatix_imx091_default_video.so:system/lib/libchromatix_imx091_default_video.so \
-    $(LOCAL_PATH)/lib/libchromatix_imx091_preview.so:system/lib/libchromatix_imx091_preview.so \
-    $(LOCAL_PATH)/lib/libchromatix_imx091_video_hd.so:system/lib/libchromatix_imx091_video_hd.so \
-    $(LOCAL_PATH)/lib/libchromatix_imx091_zsl.so:system/lib/libchromatix_imx091_zsl.so	\
     $(LOCAL_PATH)/lib/libchromatix_imx111_default_video.so:system/lib/libchromatix_imx111_default_video.so \
     $(LOCAL_PATH)/lib/libchromatix_imx111_preview.so:system/lib/libchromatix_imx111_preview.so \
     $(LOCAL_PATH)/lib/libchromatix_imx111_zsl.so:system/lib/libchromatix_imx111_zsl.so \
